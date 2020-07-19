@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.covid_19.BerandaActivity">
+    <item
+        android:id="@+id/id_cari"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:orderInCategory="100"
+        android:title="Cari"
+
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always" />
+</menu>

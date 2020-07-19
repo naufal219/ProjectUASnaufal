@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="Konfirmasi_baru">Konfirmasi Terbaru</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="baru_sembuh">Baru Sembuh</string>
+    <string name="total_sembuh">Total Sembuh</string>
+    <string name="total_meninggal">Total Meninggal</string>
+    <string name="kematian_baru">Kematian Baru</string>
+    <string name="terahir_update">Terakhir update</string>
+    <string name="total_konfirmasi">Total Konfirmasi</string>
+    <string name="title_activity_beranda">ScrollingActivity</string>
+    <string name="large_text">
+       Maaf tidak ada data tersedia
+    </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
